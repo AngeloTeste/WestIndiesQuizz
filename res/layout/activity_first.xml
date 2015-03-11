@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:gravity="center"
+    android:background="@color/bleu">
+    
+   
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="60dp"
+        android:text="@string/welcome"
+        android:textSize="20sp"
+        android:textStyle="bold|italic" />
+    
+     <TextView
+        style="@style/MiniTitle"
+        android:text="@string/regleJeu"
+        />
+
+    <TextView 
+        style="@style/TextSimple"
+        android:text="@string/regle"
+        />
+    <TextView 
+        style="@style/MiniTitle"
+        android:text="@string/apropos"
+        />
+    <TextView
+        style="@style/TextSimple"
+        android:text="@string/propos"
+        />
+    
+    <TextView
+        style="@style/MiniTitle"
+        android:text="@string/con"
+        />
+    
+    <TextView 
+        style="@style/TextSimple"
+        android:text="@string/cont"
+        />
+    "
+    <Button 
+        android:id="@+id/begin_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/begin"
+        />
+
+</LinearLayout>

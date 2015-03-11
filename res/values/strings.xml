@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WestIndiesQuizz</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+
+
+   
+    <string name="menu_settings">Settings</string>
+    
+    <string name="q1">A combien de kilomètre se situe la France de la Guadeloupe?</string>
+    <string name="b1"> 8000</string>
+    <string name="a1"> 6200</string>
+    <string name="c1">800</string>
+    <string name="d1"> 10000</string>
+    <string name="r1"> 6200</string>
+    
+    <string name="q2"> Quel est le code départementale de la Guadeloupe?</string>
+    <string name="d2"> 972</string>
+    <string name="b2">93</string>
+    <string name="c2">974</string>
+    <string name="a2">971</string>
+    <string name="r2">971</string>
+    
+    <string name="q3"> Quel est la superficie en km² de la Guadeloupe?</string>
+    <string name="a3"> 1434 </string>
+    <string name="r3"> 1434 </string>
+    <string name="b3"> 5866 </string>
+    <string name="c3">846</string>
+    <string name="d3"> 12758</string>
+    
+    <string name="q4"> Quel est le plus haut sommet des petites antilles</string>
+    <string name="c4"> La Montagne Pelée</string>
+    <string name="b4">  Himalaya </string>
+    <string name="a4"> Soufrière</string>
+    <string name="r4"> Soufrière</string>
+    <string name="d4"> Villarica</string>
+    
+    <string name="q5"> Combien de saisons y-a-t-il au Antilles?</string>
+    <string name="d5"> 6</string>
+    <string name="b5"> 4</string>
+    <string name="c5"> 8</string>
+    <string name="a5"> 2</string>
+    <string name="r5"> 2</string>
+    
+    <string name="q6"> Que signifie Karukera?</string>
+    <string name="b6"> L\'île aux belles fleurs</string>
+    <string name="a6"> L\'île aux belles eaux</string>
+    <string name="r6"> L\'île aux belles eaux</string>
+    <string name="c6"> Le pays aux belles fleurs</string>
+    <string name="d6"> Le pays aux belles eaux</string>
+    
+    <string name="q7">Qui a découvert les petites antilles?</string>
+    <string name="c7">James Bond</string>
+    <string name="b7"> Pedro Alvares Cabral</string>
+    <string name="a7">Christophe Colomb</string>
+    <string name="r7">Christophe Colomb</string>
+    <string name="d7">Fernand de Magellan</string>
+    
+    <string name="q8"> Qui a conservé la Guadeloupe durant 4 ans?</string>
+    <string name="a8"> Les Britanniques</string>
+    <string name="r8"> Les Britanniques</string>
+    <string name="b8"> Les Chinois</string>
+    <string name="c8"> Les Cap-Verdiens</string>
+    <string name="d8"> Les Italiens</string>
+    
+    <string name="q9"> A quel pays la Guadeloupe a-elle appartenu?</string>
+    <string name="c9"> Les Etats-Unis </string>
+    <string name="b9"> L\'inde</string>
+    <string name="a9"> La Suède</string>
+    <string name="r9"> La Suède</string>
+    <string name="d9"> L\'allemagne</string>
+    
+    <string name="q10"> Traduit en français, quel est l\'insulte la plus utilisée au Antilles?</string>
+    <string name="a10"> Le cou de ta maman</string>
+    <string name="r10"> Le cou de ta maman</string>
+    <string name="b10"> Va te faire foutre</string>
+    <string name="c10"> Enculé</string>
+    <string name="d10"> Nique ta mère</string>
+    
+    <string name="q11"> Quel a été la devise de Louis Delgrès?</string>
+    <string name="b11"> La Gwadeloup c tan nou</string>
+    <string name="a11"> Vivre libre ou mourir</string>
+    <string name="r11"> Vivre libre ou mourir</string>
+    <string name="c11"> Liberté, Egalité, Fratenité</string>
+    <string name="d11"> Liberté, Egalité, Nique Ta Mère</string>
+    
+    <string name="q12"> Les premiers indiens sont arrivés en Guadeloupe au:</string>
+    <string name="a12"> 19eme siècle</string>
+    <string name="r12"> 19eme siècle</string>
+    <string name="d12"> 21eme siècle</string>
+    <string name="b12"> 15eme siècle</string>
+    <string name="c12"> 16eme siècle</string>
+    
+    
+    <string name="q13"> Le massacre de la Saint-Valentin a eu lieu le:</string>
+    <string name="a13"> 14 févier 1952</string>
+    <string name="r13"> 14 févier 1952</string>
+    <string name="b13"> 14 févier 1859</string>
+    <string name="c13"> 14 févier 1900</string>
+    <string name="d13"> 14 septembre 1998</string>
+    
+    <string name="q14"> Quel territoire ne dépend plus de la guadeloupe?</string>
+    <string name="d14"> La désirade</string>
+    <string name="b14"> Marie-Galante</string>
+    <string name="c14"> Les Saintes</string>
+    <string name="a14"> Saint-Barthelemy</string>
+    <string name="r14"> Saint-Barthelemy</string>
+    
+    <string name="q15"> Que signifie LKP?</string>
+    <string name="b15"> Liyannag Kont Pwotestasyon</string>
+    <string name="a15"> Liyannag Kont Pwofitasyon</string>
+    <string name="r15"> Liyannag Kont Pwofitasyon</string>
+    <string name="c15"> Liyannag Kont Poliè</string>
+    <string name="d15"> Liyannag Kont Pouvwa</string>
+    
+    <string name="q16">Combien d\'habitant environ y a-t-il en Guadeloupe? </string>
+    <string name="d16"> 50 000</string>
+    <string name="b16"> 9 000 000</string>
+    <string name="c16"> 6 milliards</string>
+    <string name="a16"> 500 000</string>
+    <string name="r16"> 500 000</string>
+    
+    <string name="q17"> Parmis la population en Guadeloupe, les noires et les mulâtres répresentent : </string>
+    <string name="c17"> 25% de la population</string>
+    <string name="b17"> La moitié population</string>
+    <string name="a17"> 75% de la population</string>
+    <string name="r17"> 75% de la population</string>
+    <string name="d17"> 5% de la population </string>
+    
+    <string name="q18"> La population blanche en Guadeloupe représente :</string>
+    <string name="c18"> 41% de la population</string>
+    <string name="b18"> 90% de la  population</string>
+    <string name="a18"> 9% de la population</string>
+    <string name="r18"> 9% de la population</string>
+    <string name="d18"> 3% de la population</string>
+    
+    <string name="q19"> Le plus connu des quotient des Antilles est le :</string>
+    <string name="a19"> Le France-Antilles</string>
+    <string name="r19"> Le France-Antilles</string>
+    <string name="b19"> Le Farce-Antilles</string>
+    <string name="c19"> Le Francais-Antillais</string>
+    <string name="d19"> 20 Minutes</string>
+    
+    <string name="q20">La Guadeloupe et Martinique sont des : </string>
+    <string name="c20"> COM</string>
+    <string name="b20"> DOM-TOM</string>
+    <string name="a20"> DOM-ROM</string>
+    <string name="r20"> DOM-ROM</string>
+    <string name="d20"> Territoire Indépendante </string>
+    
+    <!--  
+    <string name="question_km">Question 1: La guadeloupe se situe à 8000km de la France.</string>
+    <string name="question_code">Question 2: Le code départementale de la guadeloupe est 972.</string>
+    <string name="question_superficie">Question 3: La guadeloupe a une superficie de 1434 km².</string>
+    <string name="question_volcan">Question 4: La Soufrière est le plus haut sommet des petites antilles.</string>
+    <string name="question_saison">Question 5: On distingue 4 saisons en Guadeloupe.</string>
+    <string name="question_karukera">Question 6: l\'île Karukera signifie l\'île aux belles fleurs.</string>
+    <string name="question_1794">Question 7: Chritophe Colomb a découvert la guadeloupe en 1794.</string>
+    <string name="question_britannique">Question 8: Les britanniques ont conservés la guadeloupe durant 4 ans.</string>
+    <string name="question_suede">Question 9: La guadeloupe a appartenu à la suède.</string>
+    <string name="question_counia">Question 10: "le cou de ta maman est nu" est à l\'origine d\'une insulte en créole.</string>
+    <string name="question_delgres">Question 11: "Vivre ou mourir" sont les dernières paroles de Bonaparte.</string>
+    <string name="question_indien">Question 12: En 1854, les premiers indiens arrivent en guadeloupe.</string>
+    <string name="question_14fevrier">Question 13: le Massacre de la Saint-Valentin a eu lieu un 14 février.</string>
+    <string name="question_departement">Question 14: le département de la Guadeloupe intègre Saint-Barthélemy et Saint-Martin.</string>
+    <string name="question_lkp">Question 15: Une grève général de 44 jours a été réalisé par le Liyannag Kont Pwotestatyon.</string>
+    <string name="question_population">Question 16: En Guadeloupe nous avons une population supérieur à 450000 habitants.</string>
+    <string name="question_composition">Question 17: Plus de trois quart de la population est noirs ou mulâtres.</string>
+    <string name="question_blanc">Question 18: Moins de 5% de la population est blanche.</string>
+    <string name="question_farce">Question 19: Le plus important journal de l\'île est le Farce-Antilles.</string>
+    <string name="question_dom">Question 20: la Guadeloupe est un DOM-ROM.</string>
+   
+    <string name="answer_km">Paris est à environ 8000km de Raizet, mais la distance de la guadeloupe à la France est 6200km </string>
+    <string name="answer_code">972 est le code postal de la martinique, celui de la guadeloupe est 971</string>
+    <string name="answer_superficie"> 848km² pour la Basse-Terre et 586 km² pour la Grande-Terre</string>
+    <string name="answer_volcan">Avec 1434km², la Soufrière est le plus haut sommet des petites antilles</string>
+    <string name="answer_saison">Il y a deux saisons: sèche et humide respectivement carême et hivernage</string>
+    <string name="answer_karukera">Karukera signifie l\'ile aux belles eaux</string>
+    <string name="answer_1794">Colomb l\'a découvert en 1493, 1794 est la date de la première abolition de l\'escalvage</string>
+    <string name="answer_britannique">De 1759 à 1763, les britanniques s\'embaraient de la guadeloupe</string>
+    <string name="answer_suede"> Les britanniques ont cédés la Guadeloupe à Suède en 1813</string>
+    <string name="answer_counia">Cette insulte traduit en français est souvent utilisée c\'est le fameux counia ma   restons polis</string>
+    <string name="answer_delgre"> "Vivre ou mourir" sont les dernières paroles de Louis Delgrès</string>
+    <string name="answer_indien"> Les premiers indiens, débarqués en Guadeloupe, viennent de Pondichéry, Calcutta</string>
+    <string name="answer_14fevrier">Le 14 février 1952, les militaires français ont eu l\'ordre de tirer sur la foule</string>
+    <string name="answer_departement">Saint-Barthélemy et Saint-Martin sont des Collectivités d\'Outre-Mer (COM)</string>
+    <string name="answer_lkp">Le LKP est l\'abréviation de Liyannag Kont Pwofitasyon</string>
+    <string name="answer_population">Actuellement, nous devrons être pas loin des 470 000 habitans en Guadeloupe.</string>
+    <string name="answer_composition">72% de population est noirs ou mulâtres dans notre île</string>
+    <string name="answer_blanc">9% de la population est caucasiens(blanc) en Guadeloupe</string>
+    <string name="answer_farce">Le Farce-Antilles est une parodie du France-Antilles</string>
+    <string name="answer_dom">Depuis 2003, l\'île est un Département et Région d\'Outre-Mer d\'où DOM-ROM </string>
+    
+    <string name="welcome"> Bienvenue au GwadaQuiz</string>
+    <string name="explain"> GwadaQuiz est une application Bêta de quizz sur la Guadeloupe afin de trouver d\'avantage de questions qui peut-être données directement sur le groupe FB GwadaQuiz. Vous allez devoir répondre à 20 questions par vrai ou faux. Les réponses vont s\'afficher directement, un score vous sera donné à la fin. Bonne chance.</string>
+
+    <string name="begin"> Commencez</string>
+    
+    
+    <string name="true_button">Vrai</string>
+    <string name="false_button">Faux</string>
+    <string name="correct_toast">Exacte</string>
+    <string name="incorrect_toast">Inexacte</string>
+    <string name="next_button">Question suivante</string>
+    -->
+    
+    <string name="welcome"> Bienvenue au West Indies Quizz</string>
+    <string name="explain"> West Indies Quizz est une application Bêta de quizz sur les Antilles afin de trouver d\'avantage de questions qui peut-être données directement sur le groupe FB GwadaQuiz. Vous allez devoir répondre à des questions avec 4 choix de réponse.  Lors d\'une bonne réponse, vous passez à la question suivante.Si vous répondez pas correctement,Votre score vous sera donné tout au long de la partie. Bonne chance.</string>
+	<string name="regle"> Dans ce quizz vous allez avoir un série de questions au hasard avec un choix de 4 réponses possible. Vous devrez cliquer sur une réponse. Le but du jeu est de trouver un maximun de bonne réponse.</string>
+	<string name="regleJeu"> Règle du jeu</string>   
+	<string name="begin"> Commencez</string>
+    
+    <color name="bleu">#3CBDEC</color>
+    <string name="home_title"> MENU </string>
+     <string name="jouer">Jouer !</string>
+    <string name="scores"> Voir scores</string>
+    <string name="connexion">Se connecter</string>
+    <color name="black">#000000</color>
+    <color name="blanc">#DDDDDD</color>
+    <string name="tutoriel">Tutoriel</string>
+    <string name="apropos"> A propos</string>
+    <string name="propos"> L\'application a pour but de nous aider a mieux connaitre nos îles, notre culture, notre histoire de façon ludique. </string>
+    <string name="con"> Contribution </string>
+    <string name="cont">Nous souhaitons avoir un plus grand nombre de question. C\'est plus cela votre contribution est importante. Je vous invite a rejoindre le groupe facebook GwadaQuiz afin de nous faire vos propositions. Merci</string>
+
+</resources>
